@@ -1,3 +1,6 @@
+全面质量管理，即TQM(Total Quality Management)
+全面质量控制，即TQC(Total Quality Control)
+
 突变测试 
 (mutation testing)一种测试方法。指对两个或两个以上程序的变异(mutation)，采用相同的测试用例进行测试。目的是评估测试用例发现变种间不同的能力。
 
