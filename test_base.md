@@ -1,3 +1,7 @@
+```
+
+system thinking and optimize the whole
+
 全面质量管理，即TQM(Total Quality Management)
 全面质量控制，即TQC(Total Quality Control)
 
@@ -8,3 +12,4 @@
 (back-to-back testing) 一种测试方法。指对两个或两个以上程序的变体(variant) 对比测试。采用相同的测试用例和相同的输入，对产生的结果进行比较。比较的重点是错误差异(discrepancies)分析。
 
 
+```
