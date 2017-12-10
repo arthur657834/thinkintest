@@ -17,4 +17,13 @@ system thinking and optimize the whole
 CURD
 创建（Create）、更新（Update）、读取（Retrieve）和删除（Delete）操作
 
+QA的工作涉及软件研发流程的各个环节，且涉及到每一位参与研发的人员，但质量保证工作又不涉及具体的软件研发细节，侧重于整个流程。
+
+QC则侧重于点，利用各种方法去检查某个功能是否满足业务需求。
+
+Faster Delivery Of Quality Software From Idea To Consumer
+
+Quality is not just in the software but also in the process
+
+
 ```
